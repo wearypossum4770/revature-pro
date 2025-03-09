@@ -15,6 +15,6 @@ public class HelloWorldLab {
    * @return "Hello, world!"
    */
   public String sayHello() {
-    return "change me";
+    return "Hello, world!";
   }
 }
